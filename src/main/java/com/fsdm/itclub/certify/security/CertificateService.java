@@ -1,6 +1,5 @@
 package com.fsdm.itclub.certify.security;
 
-
 import com.fsdm.itclub.certify.entity.Certificate;
 import com.fsdm.itclub.certify.repository.CertificateRepository;
 import org.slf4j.Logger;
